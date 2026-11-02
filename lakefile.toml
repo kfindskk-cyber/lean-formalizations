@@ -1,0 +1,10 @@
+name = "formalizations"
+defaultTargets = ["Formalizations"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4"
+rev = "74d53835e5b04d99ce92987b1552cc882b9e12a4"
+
+[[lean_lib]]
+name = "Formalizations"

@@ -1,0 +1,11 @@
+Copyright (c) 2026 Ziping Guo. All rights reserved.
+
+The Lean source files in this repository are made publicly available so that
+the formal proofs can be read, cloned, built and checked. Making them public
+grants no permission for reproduction, redistribution, adaptation, or
+commercial reuse beyond what is needed to build and verify the proofs, or
+beyond what applicable law and GitHub's Terms of Service allow. For any other
+use, obtain prior written permission from the copyright holder.
+
+Mathlib and the other dependencies fetched by Lake are distributed under their
+own licenses (Apache 2.0) and are not part of this repository.
